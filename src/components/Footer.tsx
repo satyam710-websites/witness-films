@@ -175,6 +175,11 @@ const Footer = () => {
                   Contact
                 </FooterLink>
               </Link>
+              <Link to="/privacy-policy" style={{ color: '#ccc', textDecoration: 'none' }}>
+                <FooterLink variant="body2">
+                  Privacy Policy
+                </FooterLink>
+              </Link>
             </Box>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
