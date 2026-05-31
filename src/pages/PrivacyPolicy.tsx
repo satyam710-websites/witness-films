@@ -169,7 +169,7 @@ const PrivacyPolicy: React.FC = () => {
           </BodyText>
           <Box component="ul" sx={{ pl: 3, color: '#444', lineHeight: 2, textAlign: 'left' }}>
             <li><Typography variant="body1" sx={{ textAlign: 'left' }}>Email: filmswitness@gmail.com</Typography></li>
-            <li><Typography variant="body1" sx={{ textAlign: 'left' }}>Phone: +91-8077002038</Typography></li>
+            <li><Typography variant="body1" sx={{ textAlign: 'left' }}>Phone: +91-7055519939</Typography></li>
             <li><Typography variant="body1" sx={{ textAlign: 'left' }}>Location: Offgrid Studios, Jakhan, Dehradun, India</Typography></li>
           </Box>
           <Box sx={{ mt: 3, display: 'flex', justifyContent: 'center' }}>

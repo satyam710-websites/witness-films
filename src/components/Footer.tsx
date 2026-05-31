@@ -190,7 +190,7 @@ const Footer = () => {
               Email: filmswitness@gmail.com
             </FooterText>
             <FooterText variant="body2">
-              Phone: +91-8077002038
+              Phone: +91-7055519939
             </FooterText>
             <FooterText variant="body2">
               Location: Offgrid Studios, Jakhan, Dehradun, India
